@@ -1,0 +1,6 @@
+framework module Pods_ManufacturerModelCarSummary {
+  umbrella header "Pods-ManufacturerModelCarSummary-umbrella.h"
+
+  export *
+  module * { export * }
+}

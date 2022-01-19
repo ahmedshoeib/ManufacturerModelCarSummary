@@ -1,0 +1,15 @@
+/* 
+  localization.strings
+  ManufacturerModelCarSummary
+
+  Created by Shoeib on 10/22/18.
+  Copyright © 2018 Test. All rights reserved.
+*/
+
+"Error" = "Error";
+"No Internet Connection" = "No Internet Connection exist";
+"No Data Found" = "No Data Found";
+"Un Expected Error" = "Un expected error occurred, Please try again later";
+"Notice!" = "Notice!";
+"Sorry" = "Sorry";
+"Something went wrong" = "Something went wrong";

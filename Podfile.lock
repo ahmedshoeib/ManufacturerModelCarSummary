@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CCBottomRefreshControl (0.5.2)
+  - JGProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - CCBottomRefreshControl
+  - JGProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CCBottomRefreshControl: 389780b4488321c91d18f66a6da5ef9606df6de5
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+
+PODFILE CHECKSUM: 9425e63798c12e1dd155d6a1e5505076dd1558a0
+
+COCOAPODS: 1.4.0
