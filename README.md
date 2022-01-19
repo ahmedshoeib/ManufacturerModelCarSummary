@@ -1,16 +1,5 @@
 
 
-Coding test
-
-
-Dear Candidate,
-
-Since on-site interviews are one of the worst places to test coding skills of a candidate, we 
-created this little challenge for you to show off a little. Please create a native iOS app with the 
-following characteristics.
-
-Here is the story:
-
 •  As a user, I want to be able to select a car, choosing a unique combination of manufacturer and 
 model, and see a summary at the end. Each list will be provided through a web service.
 
